@@ -11,7 +11,7 @@
 	<groupId>com.ssafy</groupId>
 	<artifactId>backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>backend-1</name>
+	<name>hyaherl</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
